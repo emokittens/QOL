@@ -1,1 +1,2 @@
-Scripts, configs & a few other things to make your life slightly easier.
+Arch Linux equivalent to "https://christitus.com/windows-tool/"
+
